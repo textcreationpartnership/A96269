@@ -1,0 +1,208 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A message and declaration sent from Colonel Whaley, to the Right Honourable William Lenthal Esquire, Speaker of the House of Commons, concerning the Kings Majesties royall person, and engagement. Together with his demonstration and proposals, touching His gracious Majesty, and Mr. John Ashburnham (now attending his royal person in the Isle of Wight.) This message and declaration is appointed to be forthwith printed and published, by order and command of the said Colonell Whaley. December, 7. 1647.</title>
+            <author>Whalley, Edward, d. 1675?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96269</idno>
+            <idno type="STC">Wing W1529</idno>
+            <idno type="STC">Thomason E419_14</idno>
+            <idno type="STC">ESTC R204069</idno>
+            <idno type="EEBO-CITATION">99863777</idno>
+            <idno type="PROQUEST">99863777</idno>
+            <idno type="VID">161341</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96269)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161341)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 66:E419[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A message and declaration sent from Colonel Whaley, to the Right Honourable William Lenthal Esquire, Speaker of the House of Commons, concerning the Kings Majesties royall person, and engagement. Together with his demonstration and proposals, touching His gracious Majesty, and Mr. John Ashburnham (now attending his royal person in the Isle of Wight.) This message and declaration is appointed to be forthwith printed and published, by order and command of the said Colonell Whaley. December, 7. 1647.</title>
+                  <author>Whalley, Edward, d. 1675?</author>
+                  <author>Lenthall, William, 1591-1662.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>for George Whittington, at the Blew Anchor in Cornhill neere the Royall Exchange,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply to: Ashburnham, John.  A letter written by John Ashburnham Esquire, from Carisbrook Castle in the Isle of Wight, Novemb. 26. 1647. To William Lenthall Esquire, Speaker of the Honourable House of Commons.</note>
+                  <note>The words "now attending .. Wight." are enclosed in square brackets on title page.</note>
+                  <note>Imperfect: staining and print show-through.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ashburnham, John, 1603-1671. --  Letter written by John Ashburnham Esquire, from Carisbrook Castle in the Isle of Wight, Novemb. 26. 1647. To William Lenthall Esquire, Speaker of the Honourable House of Commons --  Early works to 1800.</term>
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161341:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 52 -->
+            <p>A MESSAGE AND DECLARATION SENT FROM Colonel <hi>Whaley,</hi> to the Right Honou<g ref="char:EOLhyphen"/>rable WILLIAM LENTHAL Eſquire, Spea<g ref="char:EOLhyphen"/>ker of the Houſe of Commons, CONCERNING The Kings Majeſties Royall Perſon, and Engagement. Together with his <hi>Demonſtration</hi> and <hi>Pro<g ref="char:EOLhyphen"/>poſals,</hi> touching His Gracious Majeſty, and Mr. <hi>John Aſhburnham</hi> [now attending His Royal Perſon in the Iſle of <hi>Wight.</hi>]</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>THis Meſſage and Declaration is appointed to be forthwith printed and publiſhed, by Order and Command of the ſaid Colo<g ref="char:EOLhyphen"/>nell</hi> Whaley.</p>
+                        <p>DECEMBER, 7. 1647.</p>
+                        <p>Imprinted at <hi>London</hi> for <hi>George Whittington,</hi> at the Blew Anchor in Cornhill necre the Royall Exchange, 1647.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:161341:2"/>
+            <!-- PDF PAGE 53 -->
+            <pb n="1" facs="tcp:161341:2"/>
+            <!-- PDF PAGE 53 -->
+            <head>A Letter from Colonel <hi>Whaley</hi> to <hi>William Lenthal,</hi> Speaker of the ho<g ref="char:EOLhyphen"/>nourable Houſe of Commons.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Am bold to affirme to you, that my engage<g ref="char:EOLhyphen"/>ments for the Parliament have bin with faith<g ref="char:EOLhyphen"/>fulneſſe and truth undertaken, and though I have alwayes ſet a hïgh price of the Houſes fa<g ref="char:EOLhyphen"/>vour<g ref="char:punc">▪</g> endeavouring to anſwer it by diſcharging the duty of my place and truſt; yet I ever abhorred ſiniſter and unlawfull wayes, eſpecially ſuch abho<g ref="char:EOLhyphen"/>minable ones, as to ing a iate my ſelf with them, by untruths, it is not God and my owne Conſcience a<g ref="char:EOLhyphen"/>lone, that will juſtifie me in this, but with confidence I may preſume, all the Godly in the Army that knowes me, ſo far as man can judge, will teſtifie the ſame: Therefore, being now accuſed by M. <hi>Aſhburn<g ref="char:EOLhyphen"/>ham</hi> in a letter to you, for the not declaring his Maje<g ref="char:EOLhyphen"/>ſties diſingaging himſelf by him [as hee ſaith he did] to me, the tenderneſſe of my reputation, bo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h with you and all honeſt men in the kingdome puts me up<g ref="char:EOLhyphen"/>on it, to write ſomething in anſwer to his <hi>Letter,</hi> that this groſſe failing, <hi>I ſhould ſpeak another language,</hi> did
+<pb n="2" facs="tcp:161341:3"/>
+               <!-- PDF PAGE 54 -->not I think his memorie failed him, may appear both to you himſelf, and the kingdome.</p>
+            <p>Mr. <hi>Aſhburnham</hi> in the beginning of his <hi>Letter</hi> ſaith he was the occaſion, that drew on his Majeſties En<g ref="char:EOLhyphen"/>gagement how this ſhould be I cannot imagine, for the <hi>King</hi> made his Engagement to mee at New mar<g ref="char:EOLhyphen"/>ket, which I made known to the Generall and Offi<g ref="char:EOLhyphen"/>cers, when Mr. <hi>Aſhburnham</hi> was in <hi>France.</hi> I confeſſe as I did declare, the King voluntarily renewed his Engagement at <hi>Wooburn,</hi> but that M. <hi>Aſhburnham</hi> had ſo much as a hand in that, it is more then ever I heard.</p>
+            <p>Mr. <hi>Aſhburnham</hi> further ſaith, that ſoone after <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ee came to wait on his Majeſtie at <hi>W<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oburn,</hi> Col. <hi>Wh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ley</hi> came to me, as he ſaid by command from the Armie, to deſire I would give my word, that his Majeſtie would not depa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t from them w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>thout their conſent, &amp;c. I hat I ſpake to Mr. Aſhburnham to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ngage him<g ref="char:EOLhyphen"/>ſelf for the Kings ſafe abiding with me. I will not de<g ref="char:EOLhyphen"/>ny, I have affirmed as much, but I am exceeding con<g ref="char:EOLhyphen"/>fident, I did it not in the name of the Armie, for I had no ſuch Commiſſion and it hath ever beene my eare to keep to my Commands.</p>
+            <p>That Mr. Aſhburnham found me walking b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the River ſide, and there did diſingage himſelf from his former Engagement, I have already declared, but that I ſhould ſay, then the King doth ſo too, and he ſhould tell me, you are to underſtand it ſo, 'tis as true as the reaſon he backes it with: For he ſaith, to ſhew you, that Colon II Whaley rightly apprehended what I meant, hee ſoone after went to the Head Quarters, where he declared unto them (as I am credibly in<g ref="char:EOLhyphen"/>formed)
+<pb n="3" facs="tcp:161341:3"/>
+               <!-- PDF PAGE 54 -->that the King and my ſelfe had withdrawne our words, &amp;c.</p>
+            <p>As to this, the Generall and all the Councel of War then met, are my witneſſes, I told them no ſuch thing, I acquainted them indeed M. Aſhburnham had taken off his Engagement but when they asked me, whether the King hath done it, I anſwered, as I <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>id you in the Houſe upon the ſame Queſtion, which is in my Narrative, and left it to them to judge; and therefore I muſt return this upon Mr. Aſhburnham, and uſe it as an Argument agai<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt him, That if the King did command him to take off his Engagement, he did not diſcharge his Truſt for had he<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, I ſhould ſooner have acquainted the Generall and Officers that the King had diſcharged himſelfe, it being of greater weight then that Mr. Aſhburnham had.</p>
+            <p>I ſhould like wiſe have made known ſo much to his Excellencie in my Letter, when I writ to him, that Mr. Aſhburnham had diſſingaged himſelfe.</p>
+            <p>And ſince he goes about to prove his aſſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rtion, by circumſtances <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll further make is <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pp<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ar, how lit<g ref="char:EOLhyphen"/>tle they make for him, had Mr. Aſhburnham taken off the King from his Engagement, he would have acquainted the Lieutenant Generall and Commiſſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<g ref="char:EOLhyphen"/>ry Generall with it, as wel as with his own diſingag<g ref="char:EOLhyphen"/>ment, but they affirme to me the contrary, for about the ſame time, that Mr. Aſhburnham diſingaged himſelf, when he pretends he took off the Kings alſo, he went to putney to ſpeak with the Lieutenant Ge<g ref="char:EOLhyphen"/>nerall, and Commiſſary Generall, they refuſing to ſpeak with him, he ſent them word, hee would ſtand engaged for the King no longer, and gave this for his
+<pb n="4" facs="tcp:161341:4"/>
+               <!-- PDF PAGE 55 -->reaſon, There was ſo much Scotch ſpoken at the Court, but not one word of diſobli<g ref="char:EOLhyphen"/>ging the King.</p>
+            <p>I ſhall likewiſe appeale to all that knowes me, whe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>her they conceive me to be ſo ſim<g ref="char:EOLhyphen"/>ple, and of ſo poor a ſpirit, that when the King had perſonally engaged himſelf to me, J ſhould remain ſatisfied, that Mr. Aſhburn<g ref="char:EOLhyphen"/>ham ſhould tell me the King withdrew his Engagement, certainly I ſhould have known the Kings pleaſure in it, J was never at ſuch a diſtance from the King, neither wanted ſo much boldneſſe, to ask him a queſtion of ſuch concernment.</p>
+            <p>Mr. Speaker,</p>
+            <p>I think J have ſufficiently demonſtrated, to you, and J doubt not, but it will ſatisfie all indifferent men, that if the King did com<g ref="char:EOLhyphen"/>mand Mr. Aſhburnham, as it ſeemed to him he did, to take off his Engagement, he hath not diſcharged his-truſt; and this for the clearing my owne integrity J have done,</p>
+            <pb n="5" facs="tcp:161341:4"/>
+            <!-- PDF PAGE 55 -->
+            <p>And the Righteous GOD that ſhall judge us all, knowes J have related the truth; and whatever men believe, J matter not, it is not the praiſe of men J ſeeke, my witneſſe is with God, J remaine</p>
+            <closer>
+               <salute>SIR,</salute> 
+               <signed>Your very humble and faithfull Servant,</signed> 
+For the Right Honourable WILLIAM Lenthal Eſquire, Speaker of the Honourable Houſe of Commons.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
